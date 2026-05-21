@@ -1,0 +1,501 @@
+Interest,Skills,Favorite_Subject,Experience_Level,Career_Goal,Recommended_Domain
+Cloud,React,Cyber Security,Intermediate,Backend Developer,Cloud Computing
+Data Analysis,HTML CSS JavaScript,Data Science,Advanced,Backend Developer,Data Analytics
+Android,Kotlin,AI,Intermediate,Frontend Developer,Android Development
+Cloud,React,Statistics,Advanced,Android Developer,Cloud Computing
+Cloud,Docker,Java Programming,Beginner,Cloud Engineer,Cloud Computing
+UI Design,Python,Statistics,Intermediate,DevOps Engineer,Web Development
+UI Design,Java,AI,Advanced,Cloud Engineer,Web Development
+Web Apps,Java,Cyber Security,Advanced,Data Analyst,Web Development
+UI Design,Kotlin,Software Engineering,Intermediate,Backend Developer,Web Development
+Android,Linux,Networking,Advanced,Android Developer,Android Development
+Data Analysis,React,Java Programming,Intermediate,Data Analyst,Data Analytics
+Security,AWS,Cyber Security,Advanced,Security Analyst,Cybersecurity
+UI Design,Linux,Data Science,Advanced,DevOps Engineer,Web Development
+Java,AWS,Networking,Advanced,Security Analyst,Java Development
+AI,Python,Networking,Advanced,Frontend Developer,Machine Learning
+Web Apps,AWS,Software Engineering,Advanced,Cloud Engineer,Web Development
+Android,Python,AI,Beginner,ML Engineer,Android Development
+Data Analysis,TensorFlow,Networking,Intermediate,Android Developer,Data Analytics
+Data Analysis,TensorFlow,Java Programming,Advanced,Cloud Engineer,Data Analytics
+Networking,Linux,Cyber Security,Beginner,ML Engineer,Cybersecurity
+AI,Java,Statistics,Intermediate,Android Developer,Machine Learning
+UI Design,Docker,Data Science,Intermediate,Frontend Developer,Web Development
+Security,SQL,Data Science,Advanced,ML Engineer,Cybersecurity
+Java,Java,Data Science,Advanced,Cloud Engineer,Java Development
+Security,TensorFlow,Mobile Computing,Beginner,Frontend Developer,Cybersecurity
+Networking,SQL,AI,Beginner,Android Developer,Cybersecurity
+Java,Docker,Mobile Computing,Advanced,Backend Developer,Java Development
+Java,Kotlin,Mobile Computing,Intermediate,Android Developer,Java Development
+Networking,Linux,Data Science,Advanced,Data Analyst,Cybersecurity
+Automation,TensorFlow,Cyber Security,Beginner,DevOps Engineer,Machine Learning
+Automation,Java,Software Engineering,Intermediate,Backend Developer,Machine Learning
+Java,TensorFlow,Web Technology,Beginner,Backend Developer,Java Development
+Automation,React,Data Science,Intermediate,Cloud Engineer,Machine Learning
+Automation,React,Statistics,Intermediate,Security Analyst,Machine Learning
+Cloud,AWS,AI,Advanced,ML Engineer,Cloud Computing
+Data Analysis,Java,Statistics,Advanced,Data Analyst,Data Analytics
+Automation,AWS,Java Programming,Beginner,Cloud Engineer,Machine Learning
+Networking,Python,Java Programming,Beginner,Android Developer,Cybersecurity
+Networking,TensorFlow,Networking,Advanced,Backend Developer,Cybersecurity
+Java,AWS,Networking,Advanced,Frontend Developer,Java Development
+Networking,TensorFlow,Software Engineering,Intermediate,Security Analyst,Cybersecurity
+Android,Kotlin,Web Technology,Beginner,Cloud Engineer,Android Development
+Networking,React,Cyber Security,Advanced,Backend Developer,Cybersecurity
+Web Apps,Linux,Web Technology,Intermediate,Cloud Engineer,Web Development
+Java,Python,Cyber Security,Advanced,Cloud Engineer,Java Development
+Android,React,Cloud Computing,Advanced,Android Developer,Android Development
+Cloud,Java,Mobile Computing,Advanced,Backend Developer,Cloud Computing
+Networking,Docker,Mobile Computing,Advanced,Frontend Developer,Cybersecurity
+Web Apps,AWS,Statistics,Advanced,DevOps Engineer,Web Development
+UI Design,Java,Web Technology,Intermediate,Security Analyst,Web Development
+Security,HTML CSS JavaScript,Web Technology,Advanced,Android Developer,Cybersecurity
+Networking,React,Data Science,Beginner,DevOps Engineer,Cybersecurity
+Java,Linux,Statistics,Beginner,Data Analyst,Java Development
+UI Design,SQL,Web Technology,Advanced,Data Analyst,Web Development
+AI,Kotlin,Networking,Advanced,Cloud Engineer,Machine Learning
+Automation,HTML CSS JavaScript,AI,Intermediate,Data Analyst,Machine Learning
+Web Apps,Python,Mobile Computing,Beginner,Data Analyst,Web Development
+Java,Java,AI,Intermediate,ML Engineer,Java Development
+Security,Docker,Statistics,Advanced,Cloud Engineer,Cybersecurity
+AI,Linux,Networking,Beginner,Backend Developer,Machine Learning
+Web Apps,React,Web Technology,Intermediate,Frontend Developer,Web Development
+Java,Linux,Networking,Beginner,DevOps Engineer,Java Development
+Android,Kotlin,Web Technology,Intermediate,Android Developer,Android Development
+Cloud,Docker,Java Programming,Intermediate,Frontend Developer,Cloud Computing
+Java,Kotlin,Cyber Security,Beginner,Frontend Developer,Java Development
+Cloud,Docker,Data Science,Beginner,Security Analyst,Cloud Computing
+Cloud,Linux,Java Programming,Beginner,Cloud Engineer,Cloud Computing
+Web Apps,TensorFlow,Cloud Computing,Beginner,Security Analyst,Web Development
+Automation,Kotlin,Data Science,Beginner,Android Developer,Machine Learning
+AI,TensorFlow,Software Engineering,Beginner,Security Analyst,Machine Learning
+Networking,AWS,Cloud Computing,Intermediate,Frontend Developer,Cybersecurity
+Cloud,Python,Web Technology,Beginner,Cloud Engineer,Cloud Computing
+Cloud,AWS,Web Technology,Advanced,ML Engineer,Cloud Computing
+Web Apps,React,AI,Intermediate,Cloud Engineer,Web Development
+AI,AWS,Cloud Computing,Advanced,Android Developer,Machine Learning
+Data Analysis,Python,Software Engineering,Advanced,ML Engineer,Data Analytics
+Web Apps,Kotlin,Cloud Computing,Beginner,Data Analyst,Web Development
+Networking,SQL,Data Science,Advanced,ML Engineer,Cybersecurity
+Networking,AWS,Cloud Computing,Intermediate,DevOps Engineer,Cybersecurity
+Android,Linux,Java Programming,Advanced,Security Analyst,Android Development
+Android,React,Data Science,Beginner,Android Developer,Android Development
+UI Design,Java,Software Engineering,Beginner,Cloud Engineer,Web Development
+Java,Kotlin,Mobile Computing,Advanced,Backend Developer,Java Development
+Security,Docker,Statistics,Intermediate,Cloud Engineer,Cybersecurity
+Security,SQL,Data Science,Beginner,Android Developer,Cybersecurity
+Security,React,Data Science,Beginner,Cloud Engineer,Cybersecurity
+Android,HTML CSS JavaScript,Software Engineering,Intermediate,Android Developer,Android Development
+Cloud,Linux,Statistics,Intermediate,Frontend Developer,Cloud Computing
+Security,React,Statistics,Beginner,ML Engineer,Cybersecurity
+Security,Kotlin,Cyber Security,Beginner,Android Developer,Cybersecurity
+UI Design,Docker,Mobile Computing,Advanced,DevOps Engineer,Web Development
+Java,Kotlin,Cyber Security,Advanced,Frontend Developer,Java Development
+Java,Kotlin,Software Engineering,Advanced,Frontend Developer,Java Development
+Cloud,AWS,Statistics,Beginner,Data Analyst,Cloud Computing
+Data Analysis,Kotlin,Statistics,Intermediate,Backend Developer,Data Analytics
+Automation,Python,Software Engineering,Intermediate,DevOps Engineer,Machine Learning
+UI Design,SQL,Data Science,Intermediate,Data Analyst,Web Development
+Cloud,Linux,Web Technology,Beginner,Data Analyst,Cloud Computing
+Data Analysis,HTML CSS JavaScript,Cyber Security,Beginner,Data Analyst,Data Analytics
+Cloud,Docker,Web Technology,Intermediate,Backend Developer,Cloud Computing
+Security,HTML CSS JavaScript,Data Science,Advanced,Security Analyst,Cybersecurity
+AI,HTML CSS JavaScript,Networking,Advanced,Data Analyst,Machine Learning
+Networking,SQL,Mobile Computing,Advanced,Cloud Engineer,Cybersecurity
+Networking,Python,Mobile Computing,Beginner,Cloud Engineer,Cybersecurity
+Java,TensorFlow,AI,Intermediate,Frontend Developer,Java Development
+Networking,React,Software Engineering,Intermediate,Cloud Engineer,Cybersecurity
+AI,Java,Cyber Security,Intermediate,Backend Developer,Machine Learning
+Security,HTML CSS JavaScript,Mobile Computing,Intermediate,ML Engineer,Cybersecurity
+Automation,HTML CSS JavaScript,Java Programming,Beginner,ML Engineer,Machine Learning
+Cloud,Docker,Networking,Intermediate,Backend Developer,Cloud Computing
+Android,Python,Web Technology,Intermediate,Frontend Developer,Android Development
+AI,Java,Software Engineering,Intermediate,ML Engineer,Machine Learning
+Java,Docker,Mobile Computing,Intermediate,DevOps Engineer,Java Development
+UI Design,AWS,Networking,Beginner,Android Developer,Web Development
+AI,SQL,Mobile Computing,Intermediate,Android Developer,Machine Learning
+Automation,Java,Data Science,Advanced,Data Analyst,Machine Learning
+UI Design,HTML CSS JavaScript,Web Technology,Beginner,Cloud Engineer,Web Development
+Android,React,Software Engineering,Intermediate,Frontend Developer,Android Development
+Cloud,HTML CSS JavaScript,Cyber Security,Beginner,Backend Developer,Cloud Computing
+Cloud,Python,Java Programming,Beginner,Security Analyst,Cloud Computing
+AI,TensorFlow,Web Technology,Beginner,Frontend Developer,Machine Learning
+Java,Java,Software Engineering,Advanced,Data Analyst,Java Development
+Data Analysis,Java,Web Technology,Beginner,DevOps Engineer,Data Analytics
+Cloud,Docker,Data Science,Advanced,Security Analyst,Cloud Computing
+Security,HTML CSS JavaScript,Software Engineering,Advanced,ML Engineer,Cybersecurity
+Java,Kotlin,Java Programming,Intermediate,Backend Developer,Java Development
+Web Apps,React,AI,Intermediate,Backend Developer,Web Development
+Networking,TensorFlow,AI,Advanced,Data Analyst,Cybersecurity
+Automation,Python,Statistics,Intermediate,Security Analyst,Machine Learning
+Automation,React,Web Technology,Beginner,Security Analyst,Machine Learning
+Data Analysis,Java,Data Science,Beginner,Data Analyst,Data Analytics
+Automation,Java,Cloud Computing,Intermediate,DevOps Engineer,Machine Learning
+Android,HTML CSS JavaScript,Java Programming,Beginner,Data Analyst,Android Development
+Cloud,Linux,Data Science,Intermediate,Cloud Engineer,Cloud Computing
+Web Apps,Linux,Web Technology,Advanced,DevOps Engineer,Web Development
+Java,Java,Networking,Advanced,Backend Developer,Java Development
+Android,TensorFlow,Data Science,Beginner,Android Developer,Android Development
+AI,TensorFlow,Cyber Security,Advanced,Data Analyst,Machine Learning
+Networking,AWS,Statistics,Advanced,Security Analyst,Cybersecurity
+AI,Linux,Statistics,Intermediate,Backend Developer,Machine Learning
+Security,Python,Web Technology,Beginner,ML Engineer,Cybersecurity
+Web Apps,Linux,Data Science,Beginner,Data Analyst,Web Development
+Data Analysis,Java,Networking,Advanced,Security Analyst,Data Analytics
+UI Design,SQL,Cloud Computing,Beginner,Frontend Developer,Web Development
+AI,Linux,Statistics,Beginner,Data Analyst,Machine Learning
+UI Design,React,Java Programming,Advanced,DevOps Engineer,Web Development
+UI Design,Kotlin,Cloud Computing,Intermediate,DevOps Engineer,Web Development
+Automation,Linux,Mobile Computing,Advanced,Data Analyst,Machine Learning
+Java,HTML CSS JavaScript,Web Technology,Intermediate,Cloud Engineer,Java Development
+Data Analysis,HTML CSS JavaScript,Java Programming,Beginner,Frontend Developer,Data Analytics
+Android,Java,AI,Intermediate,ML Engineer,Android Development
+AI,Java,Data Science,Advanced,Cloud Engineer,Machine Learning
+Android,Java,Software Engineering,Intermediate,DevOps Engineer,Android Development
+UI Design,Linux,Mobile Computing,Advanced,ML Engineer,Web Development
+Security,Kotlin,Java Programming,Beginner,Android Developer,Cybersecurity
+Cloud,TensorFlow,AI,Advanced,Backend Developer,Cloud Computing
+Java,Python,Web Technology,Beginner,ML Engineer,Java Development
+Java,React,Web Technology,Advanced,Cloud Engineer,Java Development
+Cloud,Linux,Cloud Computing,Advanced,ML Engineer,Cloud Computing
+Data Analysis,HTML CSS JavaScript,Cloud Computing,Beginner,Backend Developer,Data Analytics
+AI,HTML CSS JavaScript,Networking,Beginner,Security Analyst,Machine Learning
+Android,Docker,Mobile Computing,Advanced,Data Analyst,Android Development
+UI Design,Docker,Software Engineering,Intermediate,Security Analyst,Web Development
+Networking,Docker,Java Programming,Advanced,DevOps Engineer,Cybersecurity
+Android,Kotlin,Cyber Security,Advanced,Backend Developer,Android Development
+Networking,Kotlin,Cyber Security,Advanced,Frontend Developer,Cybersecurity
+Cloud,Python,Web Technology,Intermediate,DevOps Engineer,Cloud Computing
+Cloud,React,AI,Intermediate,DevOps Engineer,Cloud Computing
+Web Apps,React,Web Technology,Beginner,ML Engineer,Web Development
+AI,Kotlin,Mobile Computing,Advanced,Frontend Developer,Machine Learning
+Data Analysis,HTML CSS JavaScript,Mobile Computing,Intermediate,ML Engineer,Data Analytics
+Networking,Java,Java Programming,Beginner,DevOps Engineer,Cybersecurity
+Networking,Java,Statistics,Intermediate,Frontend Developer,Cybersecurity
+Cloud,Docker,Cyber Security,Advanced,Security Analyst,Cloud Computing
+Java,Linux,AI,Beginner,ML Engineer,Java Development
+AI,Java,Statistics,Beginner,DevOps Engineer,Machine Learning
+Data Analysis,Docker,Statistics,Beginner,ML Engineer,Data Analytics
+Automation,Docker,Software Engineering,Beginner,Security Analyst,Machine Learning
+Networking,React,Statistics,Advanced,Data Analyst,Cybersecurity
+AI,Linux,Networking,Intermediate,Security Analyst,Machine Learning
+Android,React,Web Technology,Beginner,Backend Developer,Android Development
+Android,TensorFlow,Cloud Computing,Beginner,Security Analyst,Android Development
+AI,Docker,Networking,Intermediate,ML Engineer,Machine Learning
+AI,TensorFlow,Data Science,Intermediate,DevOps Engineer,Machine Learning
+Automation,Kotlin,Java Programming,Advanced,Data Analyst,Machine Learning
+Automation,Linux,Software Engineering,Advanced,DevOps Engineer,Machine Learning
+Web Apps,Python,AI,Intermediate,Frontend Developer,Web Development
+Java,Python,Networking,Intermediate,ML Engineer,Java Development
+Security,AWS,Statistics,Advanced,DevOps Engineer,Cybersecurity
+AI,Kotlin,Cyber Security,Advanced,Backend Developer,Machine Learning
+Automation,Kotlin,Software Engineering,Advanced,Frontend Developer,Machine Learning
+Security,HTML CSS JavaScript,Cyber Security,Intermediate,Frontend Developer,Cybersecurity
+Automation,Linux,Data Science,Intermediate,ML Engineer,Machine Learning
+AI,HTML CSS JavaScript,Java Programming,Intermediate,Security Analyst,Machine Learning
+Java,Java,Software Engineering,Advanced,Security Analyst,Java Development
+Networking,AWS,Software Engineering,Advanced,ML Engineer,Cybersecurity
+Security,AWS,Cloud Computing,Intermediate,Security Analyst,Cybersecurity
+AI,React,Cyber Security,Beginner,ML Engineer,Machine Learning
+Java,HTML CSS JavaScript,Cloud Computing,Intermediate,Frontend Developer,Java Development
+AI,React,Cyber Security,Intermediate,DevOps Engineer,Machine Learning
+Cloud,TensorFlow,Data Science,Advanced,ML Engineer,Cloud Computing
+Cloud,SQL,Mobile Computing,Beginner,Android Developer,Cloud Computing
+AI,Linux,Mobile Computing,Intermediate,Frontend Developer,Machine Learning
+Security,HTML CSS JavaScript,Mobile Computing,Advanced,Backend Developer,Cybersecurity
+UI Design,Python,Mobile Computing,Advanced,Security Analyst,Web Development
+UI Design,Python,Java Programming,Beginner,Data Analyst,Web Development
+Web Apps,HTML CSS JavaScript,Cloud Computing,Advanced,Frontend Developer,Web Development
+Automation,Kotlin,Mobile Computing,Beginner,DevOps Engineer,Machine Learning
+UI Design,React,Mobile Computing,Intermediate,Backend Developer,Web Development
+AI,HTML CSS JavaScript,Software Engineering,Beginner,Data Analyst,Machine Learning
+Java,Linux,Statistics,Intermediate,Security Analyst,Java Development
+Automation,AWS,Data Science,Advanced,Frontend Developer,Machine Learning
+Java,HTML CSS JavaScript,Cyber Security,Beginner,Cloud Engineer,Java Development
+UI Design,Java,Data Science,Advanced,Data Analyst,Web Development
+AI,TensorFlow,Mobile Computing,Advanced,Frontend Developer,Machine Learning
+Networking,Java,Data Science,Beginner,Backend Developer,Cybersecurity
+UI Design,React,Data Science,Intermediate,Data Analyst,Web Development
+Android,Python,Software Engineering,Beginner,Android Developer,Android Development
+Android,React,Cyber Security,Intermediate,ML Engineer,Android Development
+AI,HTML CSS JavaScript,Java Programming,Beginner,Backend Developer,Machine Learning
+Data Analysis,Linux,Software Engineering,Intermediate,ML Engineer,Data Analytics
+Cloud,HTML CSS JavaScript,Mobile Computing,Intermediate,Backend Developer,Cloud Computing
+Web Apps,React,Data Science,Intermediate,Backend Developer,Web Development
+Java,HTML CSS JavaScript,Networking,Beginner,Security Analyst,Java Development
+Android,TensorFlow,Cloud Computing,Beginner,Data Analyst,Android Development
+UI Design,TensorFlow,Web Technology,Intermediate,Android Developer,Web Development
+Security,Kotlin,Java Programming,Intermediate,Backend Developer,Cybersecurity
+Web Apps,Kotlin,Networking,Intermediate,ML Engineer,Web Development
+Automation,Kotlin,Mobile Computing,Intermediate,Cloud Engineer,Machine Learning
+UI Design,React,Cyber Security,Beginner,Android Developer,Web Development
+Java,Docker,Java Programming,Advanced,Security Analyst,Java Development
+UI Design,Java,Java Programming,Beginner,Data Analyst,Web Development
+Security,HTML CSS JavaScript,Mobile Computing,Beginner,DevOps Engineer,Cybersecurity
+Web Apps,Python,Statistics,Beginner,Frontend Developer,Web Development
+Android,TensorFlow,AI,Advanced,Data Analyst,Android Development
+Java,Docker,Mobile Computing,Intermediate,DevOps Engineer,Java Development
+Cloud,AWS,Networking,Beginner,Backend Developer,Cloud Computing
+Java,Docker,Software Engineering,Intermediate,DevOps Engineer,Java Development
+Automation,Java,Statistics,Beginner,DevOps Engineer,Machine Learning
+AI,AWS,Java Programming,Beginner,Cloud Engineer,Machine Learning
+Cloud,SQL,Networking,Intermediate,Security Analyst,Cloud Computing
+Web Apps,Docker,AI,Beginner,Frontend Developer,Web Development
+Cloud,Java,AI,Beginner,Cloud Engineer,Cloud Computing
+UI Design,Docker,Mobile Computing,Beginner,DevOps Engineer,Web Development
+Java,Linux,Cyber Security,Beginner,Cloud Engineer,Java Development
+Automation,Kotlin,Cloud Computing,Intermediate,DevOps Engineer,Machine Learning
+Android,TensorFlow,Networking,Beginner,Android Developer,Android Development
+Web Apps,AWS,Statistics,Beginner,Backend Developer,Web Development
+Automation,HTML CSS JavaScript,Data Science,Intermediate,Frontend Developer,Machine Learning
+Automation,Docker,Networking,Beginner,Security Analyst,Machine Learning
+AI,Java,Cyber Security,Intermediate,Backend Developer,Machine Learning
+Cloud,Python,Data Science,Intermediate,DevOps Engineer,Cloud Computing
+Networking,Docker,Networking,Beginner,Data Analyst,Cybersecurity
+Data Analysis,Docker,Software Engineering,Advanced,Security Analyst,Data Analytics
+AI,HTML CSS JavaScript,Data Science,Advanced,Cloud Engineer,Machine Learning
+Security,SQL,Networking,Beginner,Data Analyst,Cybersecurity
+Cloud,Python,Software Engineering,Intermediate,Cloud Engineer,Cloud Computing
+Networking,Docker,Cyber Security,Advanced,Android Developer,Cybersecurity
+Java,Linux,Data Science,Intermediate,Android Developer,Java Development
+AI,HTML CSS JavaScript,Cloud Computing,Beginner,DevOps Engineer,Machine Learning
+UI Design,SQL,Networking,Beginner,Android Developer,Web Development
+Networking,Docker,Software Engineering,Intermediate,Data Analyst,Cybersecurity
+Android,HTML CSS JavaScript,AI,Advanced,DevOps Engineer,Android Development
+Java,Java,Data Science,Advanced,Backend Developer,Java Development
+Security,Kotlin,AI,Intermediate,Android Developer,Cybersecurity
+Automation,Linux,Cyber Security,Intermediate,Data Analyst,Machine Learning
+Security,React,AI,Advanced,ML Engineer,Cybersecurity
+Android,Docker,AI,Advanced,Security Analyst,Android Development
+Cloud,Java,Data Science,Beginner,Security Analyst,Cloud Computing
+Automation,HTML CSS JavaScript,Java Programming,Intermediate,Cloud Engineer,Machine Learning
+Cloud,Kotlin,Statistics,Advanced,DevOps Engineer,Cloud Computing
+Security,Java,Cyber Security,Intermediate,Data Analyst,Cybersecurity
+Cloud,SQL,Statistics,Advanced,DevOps Engineer,Cloud Computing
+AI,AWS,Networking,Beginner,Data Analyst,Machine Learning
+Security,AWS,Software Engineering,Intermediate,Android Developer,Cybersecurity
+Web Apps,Java,Cloud Computing,Beginner,Android Developer,Web Development
+AI,TensorFlow,Cyber Security,Advanced,Data Analyst,Machine Learning
+Web Apps,Docker,Networking,Beginner,Data Analyst,Web Development
+AI,TensorFlow,AI,Advanced,Security Analyst,Machine Learning
+Automation,SQL,Java Programming,Intermediate,Cloud Engineer,Machine Learning
+Networking,React,Cyber Security,Intermediate,Backend Developer,Cybersecurity
+UI Design,Python,Networking,Beginner,Security Analyst,Web Development
+Networking,SQL,AI,Intermediate,DevOps Engineer,Cybersecurity
+Security,HTML CSS JavaScript,Mobile Computing,Beginner,Security Analyst,Cybersecurity
+Data Analysis,AWS,Cloud Computing,Advanced,DevOps Engineer,Data Analytics
+Security,Kotlin,Web Technology,Intermediate,Backend Developer,Cybersecurity
+Security,HTML CSS JavaScript,Cloud Computing,Advanced,Data Analyst,Cybersecurity
+Networking,Docker,Java Programming,Intermediate,Security Analyst,Cybersecurity
+Automation,SQL,Statistics,Beginner,Data Analyst,Machine Learning
+Networking,Docker,Statistics,Beginner,Security Analyst,Cybersecurity
+Automation,Docker,Networking,Intermediate,Frontend Developer,Machine Learning
+AI,Linux,Java Programming,Intermediate,ML Engineer,Machine Learning
+Networking,TensorFlow,Cloud Computing,Beginner,Frontend Developer,Cybersecurity
+UI Design,Linux,Java Programming,Advanced,ML Engineer,Web Development
+Android,Python,Cyber Security,Beginner,Android Developer,Android Development
+Android,TensorFlow,Networking,Intermediate,Cloud Engineer,Android Development
+Android,SQL,Java Programming,Advanced,Cloud Engineer,Android Development
+AI,Docker,Software Engineering,Advanced,Frontend Developer,Machine Learning
+Automation,Kotlin,Mobile Computing,Intermediate,DevOps Engineer,Machine Learning
+Web Apps,Kotlin,AI,Beginner,Backend Developer,Web Development
+Cloud,TensorFlow,Networking,Beginner,DevOps Engineer,Cloud Computing
+UI Design,Java,Data Science,Intermediate,Security Analyst,Web Development
+Android,Docker,Software Engineering,Advanced,Data Analyst,Android Development
+Web Apps,HTML CSS JavaScript,Cyber Security,Intermediate,ML Engineer,Web Development
+Web Apps,Python,Web Technology,Intermediate,Data Analyst,Web Development
+Java,Kotlin,AI,Advanced,Data Analyst,Java Development
+Android,TensorFlow,Cloud Computing,Intermediate,Security Analyst,Android Development
+Security,React,Cyber Security,Beginner,ML Engineer,Cybersecurity
+Data Analysis,React,AI,Beginner,Android Developer,Data Analytics
+Automation,Linux,Web Technology,Intermediate,DevOps Engineer,Machine Learning
+Networking,Linux,Statistics,Beginner,Cloud Engineer,Cybersecurity
+AI,SQL,Cloud Computing,Intermediate,Security Analyst,Machine Learning
+Networking,Kotlin,Web Technology,Beginner,Android Developer,Cybersecurity
+Web Apps,TensorFlow,Statistics,Beginner,Cloud Engineer,Web Development
+Data Analysis,Kotlin,Cyber Security,Intermediate,DevOps Engineer,Data Analytics
+Cloud,SQL,Data Science,Advanced,Security Analyst,Cloud Computing
+Web Apps,Linux,Mobile Computing,Beginner,Frontend Developer,Web Development
+Web Apps,Kotlin,Java Programming,Intermediate,Android Developer,Web Development
+Data Analysis,Python,Statistics,Beginner,DevOps Engineer,Data Analytics
+Cloud,Kotlin,Networking,Intermediate,Security Analyst,Cloud Computing
+Java,SQL,Statistics,Advanced,Backend Developer,Java Development
+Android,Kotlin,Networking,Advanced,ML Engineer,Android Development
+Java,Kotlin,Data Science,Advanced,Security Analyst,Java Development
+Networking,Linux,Mobile Computing,Beginner,Backend Developer,Cybersecurity
+Cloud,TensorFlow,Web Technology,Intermediate,Frontend Developer,Cloud Computing
+Web Apps,Linux,Cloud Computing,Beginner,Data Analyst,Web Development
+Cloud,AWS,Java Programming,Advanced,Android Developer,Cloud Computing
+Android,Python,Software Engineering,Advanced,DevOps Engineer,Android Development
+UI Design,TensorFlow,Data Science,Beginner,ML Engineer,Web Development
+Cloud,Kotlin,Software Engineering,Intermediate,Frontend Developer,Cloud Computing
+Cloud,HTML CSS JavaScript,Networking,Intermediate,Backend Developer,Cloud Computing
+Security,React,Networking,Beginner,Backend Developer,Cybersecurity
+Automation,React,Cloud Computing,Beginner,Frontend Developer,Machine Learning
+Automation,AWS,Web Technology,Advanced,Android Developer,Machine Learning
+Java,Docker,Data Science,Intermediate,DevOps Engineer,Java Development
+AI,TensorFlow,Software Engineering,Advanced,Android Developer,Machine Learning
+UI Design,Java,AI,Advanced,Security Analyst,Web Development
+Java,AWS,Statistics,Advanced,Security Analyst,Java Development
+UI Design,Python,Java Programming,Advanced,DevOps Engineer,Web Development
+AI,HTML CSS JavaScript,Mobile Computing,Advanced,Backend Developer,Machine Learning
+AI,Kotlin,Software Engineering,Advanced,DevOps Engineer,Machine Learning
+Web Apps,HTML CSS JavaScript,Software Engineering,Advanced,Cloud Engineer,Web Development
+Automation,AWS,Networking,Intermediate,Android Developer,Machine Learning
+Data Analysis,HTML CSS JavaScript,AI,Beginner,Android Developer,Data Analytics
+Networking,AWS,Data Science,Intermediate,Cloud Engineer,Cybersecurity
+AI,Java,Cyber Security,Beginner,Cloud Engineer,Machine Learning
+UI Design,TensorFlow,Statistics,Beginner,Security Analyst,Web Development
+Data Analysis,SQL,AI,Advanced,Android Developer,Data Analytics
+Data Analysis,AWS,Data Science,Intermediate,Data Analyst,Data Analytics
+Android,SQL,Cyber Security,Advanced,DevOps Engineer,Android Development
+Java,SQL,Mobile Computing,Advanced,ML Engineer,Java Development
+Networking,Linux,Cloud Computing,Beginner,Security Analyst,Cybersecurity
+AI,HTML CSS JavaScript,Data Science,Beginner,Data Analyst,Machine Learning
+Java,TensorFlow,Statistics,Advanced,Android Developer,Java Development
+Java,Linux,Networking,Beginner,Data Analyst,Java Development
+Automation,Java,Java Programming,Advanced,Security Analyst,Machine Learning
+Android,Docker,Cyber Security,Intermediate,ML Engineer,Android Development
+Android,AWS,Networking,Advanced,DevOps Engineer,Android Development
+Security,Linux,Cloud Computing,Advanced,DevOps Engineer,Cybersecurity
+Cloud,Python,Mobile Computing,Intermediate,Backend Developer,Cloud Computing
+Web Apps,TensorFlow,Web Technology,Intermediate,Cloud Engineer,Web Development
+Java,AWS,Java Programming,Beginner,Data Analyst,Java Development
+Cloud,React,Statistics,Advanced,Android Developer,Cloud Computing
+Android,React,Cloud Computing,Beginner,DevOps Engineer,Android Development
+UI Design,TensorFlow,Web Technology,Beginner,Frontend Developer,Web Development
+Android,React,Networking,Advanced,Data Analyst,Android Development
+Data Analysis,Linux,Statistics,Advanced,ML Engineer,Data Analytics
+Networking,HTML CSS JavaScript,Statistics,Intermediate,ML Engineer,Cybersecurity
+UI Design,TensorFlow,Software Engineering,Advanced,Security Analyst,Web Development
+Java,TensorFlow,Data Science,Beginner,DevOps Engineer,Java Development
+AI,HTML CSS JavaScript,Mobile Computing,Advanced,Cloud Engineer,Machine Learning
+Web Apps,TensorFlow,Cyber Security,Advanced,Data Analyst,Web Development
+Networking,React,Networking,Advanced,Android Developer,Cybersecurity
+Networking,Kotlin,AI,Intermediate,Android Developer,Cybersecurity
+UI Design,Java,Data Science,Intermediate,Android Developer,Web Development
+Android,Docker,Cloud Computing,Beginner,Cloud Engineer,Android Development
+Cloud,Java,AI,Beginner,ML Engineer,Cloud Computing
+Data Analysis,Linux,Mobile Computing,Beginner,Frontend Developer,Data Analytics
+Java,HTML CSS JavaScript,Statistics,Intermediate,DevOps Engineer,Java Development
+UI Design,HTML CSS JavaScript,Java Programming,Advanced,ML Engineer,Web Development
+AI,AWS,Software Engineering,Advanced,Cloud Engineer,Machine Learning
+Automation,AWS,Statistics,Advanced,Android Developer,Machine Learning
+UI Design,Docker,Statistics,Intermediate,Cloud Engineer,Web Development
+Web Apps,React,Statistics,Intermediate,DevOps Engineer,Web Development
+Networking,React,Cyber Security,Beginner,Cloud Engineer,Cybersecurity
+Java,SQL,Cyber Security,Advanced,Cloud Engineer,Java Development
+Cloud,HTML CSS JavaScript,Networking,Intermediate,Data Analyst,Cloud Computing
+Web Apps,SQL,Statistics,Beginner,Backend Developer,Web Development
+AI,Kotlin,Cyber Security,Intermediate,Data Analyst,Machine Learning
+UI Design,Docker,Software Engineering,Advanced,Android Developer,Web Development
+Web Apps,TensorFlow,Java Programming,Advanced,Data Analyst,Web Development
+Automation,SQL,Cyber Security,Beginner,ML Engineer,Machine Learning
+Java,TensorFlow,Cyber Security,Beginner,DevOps Engineer,Java Development
+AI,Docker,Cloud Computing,Advanced,Backend Developer,Machine Learning
+Cloud,SQL,Software Engineering,Advanced,Frontend Developer,Cloud Computing
+UI Design,Docker,Mobile Computing,Beginner,Backend Developer,Web Development
+AI,Kotlin,Mobile Computing,Advanced,Data Analyst,Machine Learning
+Web Apps,TensorFlow,Mobile Computing,Advanced,Android Developer,Web Development
+AI,Docker,Data Science,Advanced,Cloud Engineer,Machine Learning
+Cloud,SQL,Cloud Computing,Advanced,Cloud Engineer,Cloud Computing
+UI Design,TensorFlow,Data Science,Advanced,ML Engineer,Web Development
+UI Design,TensorFlow,Networking,Intermediate,Backend Developer,Web Development
+Cloud,Linux,Cyber Security,Intermediate,Data Analyst,Cloud Computing
+AI,TensorFlow,AI,Advanced,Android Developer,Machine Learning
+Cloud,Java,AI,Beginner,ML Engineer,Cloud Computing
+Security,AWS,Java Programming,Intermediate,DevOps Engineer,Cybersecurity
+Data Analysis,SQL,Cloud Computing,Intermediate,Security Analyst,Data Analytics
+UI Design,Docker,Cloud Computing,Beginner,Backend Developer,Web Development
+Data Analysis,Python,Web Technology,Intermediate,Frontend Developer,Data Analytics
+Data Analysis,Java,Web Technology,Advanced,Android Developer,Data Analytics
+Networking,React,Statistics,Beginner,Data Analyst,Cybersecurity
+AI,Linux,Cloud Computing,Intermediate,DevOps Engineer,Machine Learning
+Networking,Java,AI,Advanced,Cloud Engineer,Cybersecurity
+Networking,HTML CSS JavaScript,Software Engineering,Beginner,Frontend Developer,Cybersecurity
+Networking,Java,AI,Intermediate,ML Engineer,Cybersecurity
+Android,HTML CSS JavaScript,Web Technology,Advanced,Android Developer,Android Development
+UI Design,Python,Networking,Beginner,Backend Developer,Web Development
+Security,TensorFlow,Networking,Intermediate,Backend Developer,Cybersecurity
+Web Apps,Kotlin,AI,Beginner,ML Engineer,Web Development
+Networking,HTML CSS JavaScript,Cloud Computing,Advanced,Frontend Developer,Cybersecurity
+Automation,AWS,Mobile Computing,Advanced,Data Analyst,Machine Learning
+Data Analysis,AWS,Statistics,Intermediate,DevOps Engineer,Data Analytics
+Data Analysis,TensorFlow,Cyber Security,Advanced,Android Developer,Data Analytics
+Data Analysis,Kotlin,Mobile Computing,Advanced,Security Analyst,Data Analytics
+Java,React,Data Science,Beginner,Cloud Engineer,Java Development
+Networking,Kotlin,Mobile Computing,Beginner,Android Developer,Cybersecurity
+Android,AWS,Software Engineering,Advanced,Security Analyst,Android Development
+Android,HTML CSS JavaScript,Mobile Computing,Beginner,Security Analyst,Android Development
+Cloud,Linux,Java Programming,Intermediate,Cloud Engineer,Cloud Computing
+Web Apps,SQL,Cloud Computing,Advanced,Frontend Developer,Web Development
+AI,Kotlin,Web Technology,Advanced,ML Engineer,Machine Learning
+UI Design,Docker,AI,Advanced,Frontend Developer,Web Development
+UI Design,React,Cloud Computing,Advanced,Frontend Developer,Web Development
+Android,React,Java Programming,Intermediate,Data Analyst,Android Development
+Networking,Java,AI,Intermediate,Security Analyst,Cybersecurity
+Automation,HTML CSS JavaScript,Cloud Computing,Advanced,Backend Developer,Machine Learning
+UI Design,HTML CSS JavaScript,Networking,Beginner,ML Engineer,Web Development
+AI,React,Software Engineering,Advanced,Data Analyst,Machine Learning
+Android,SQL,Software Engineering,Beginner,Security Analyst,Android Development
+Android,SQL,Networking,Beginner,Android Developer,Android Development
+UI Design,SQL,Cyber Security,Beginner,Android Developer,Web Development
+UI Design,Docker,AI,Advanced,Cloud Engineer,Web Development
+UI Design,Docker,Software Engineering,Beginner,Android Developer,Web Development
+Networking,Linux,Mobile Computing,Advanced,Android Developer,Cybersecurity
+Web Apps,Kotlin,Cloud Computing,Beginner,Android Developer,Web Development
+UI Design,React,Networking,Advanced,DevOps Engineer,Web Development
+Java,HTML CSS JavaScript,Mobile Computing,Intermediate,Frontend Developer,Java Development
+Networking,Java,Cyber Security,Advanced,ML Engineer,Cybersecurity
+Networking,React,Web Technology,Beginner,Backend Developer,Cybersecurity
+Android,Python,Networking,Advanced,Security Analyst,Android Development
+Data Analysis,Python,Statistics,Beginner,Frontend Developer,Data Analytics
+UI Design,Docker,Cloud Computing,Intermediate,Backend Developer,Web Development
+Android,SQL,Networking,Beginner,Frontend Developer,Android Development
+UI Design,Docker,Cloud Computing,Beginner,Frontend Developer,Web Development
+AI,Kotlin,Mobile Computing,Advanced,ML Engineer,Machine Learning
+Security,AWS,Networking,Beginner,DevOps Engineer,Cybersecurity
+AI,TensorFlow,Software Engineering,Advanced,Frontend Developer,Machine Learning
+Networking,React,Mobile Computing,Beginner,Android Developer,Cybersecurity
+Data Analysis,TensorFlow,AI,Advanced,Cloud Engineer,Data Analytics
+Android,Java,Data Science,Beginner,Security Analyst,Android Development
+Web Apps,Linux,Java Programming,Advanced,Data Analyst,Web Development
+Networking,AWS,Statistics,Intermediate,Data Analyst,Cybersecurity
+Data Analysis,HTML CSS JavaScript,Cyber Security,Beginner,ML Engineer,Data Analytics
+AI,Kotlin,Cyber Security,Intermediate,ML Engineer,Machine Learning
+Android,React,Statistics,Beginner,Cloud Engineer,Android Development
+UI Design,Linux,Java Programming,Beginner,DevOps Engineer,Web Development
+Security,AWS,Mobile Computing,Beginner,Security Analyst,Cybersecurity
+UI Design,Python,Web Technology,Advanced,DevOps Engineer,Web Development
+Automation,Docker,Cloud Computing,Intermediate,Cloud Engineer,Machine Learning
+Security,SQL,AI,Beginner,Data Analyst,Cybersecurity
+Data Analysis,HTML CSS JavaScript,Java Programming,Beginner,Cloud Engineer,Data Analytics
+Java,Kotlin,Statistics,Advanced,Data Analyst,Java Development
+Security,HTML CSS JavaScript,Cyber Security,Advanced,DevOps Engineer,Cybersecurity
+Web Apps,SQL,Java Programming,Intermediate,Security Analyst,Web Development
+Cloud,SQL,Web Technology,Beginner,Frontend Developer,Cloud Computing
+Data Analysis,React,Networking,Beginner,DevOps Engineer,Data Analytics
+AI,Python,Statistics,Intermediate,Data Analyst,Machine Learning
+Android,Kotlin,Cloud Computing,Intermediate,DevOps Engineer,Android Development
+UI Design,Kotlin,Java Programming,Advanced,ML Engineer,Web Development
+UI Design,Python,Software Engineering,Intermediate,Backend Developer,Web Development
+UI Design,SQL,Web Technology,Advanced,Data Analyst,Web Development
+Automation,React,Networking,Advanced,Android Developer,Machine Learning
+AI,Java,Mobile Computing,Intermediate,Frontend Developer,Machine Learning
+Automation,Java,Mobile Computing,Beginner,Security Analyst,Machine Learning
+Security,AWS,Cloud Computing,Beginner,Cloud Engineer,Cybersecurity
+AI,Python,Data Science,Advanced,DevOps Engineer,Machine Learning
+Automation,AWS,Web Technology,Advanced,Backend Developer,Machine Learning
+UI Design,SQL,Networking,Beginner,Security Analyst,Web Development
+Android,SQL,Cyber Security,Advanced,DevOps Engineer,Android Development
+Security,AWS,AI,Intermediate,Security Analyst,Cybersecurity
+UI Design,Linux,Web Technology,Beginner,DevOps Engineer,Web Development
+Networking,Java,Statistics,Beginner,Frontend Developer,Cybersecurity
+Networking,Linux,Mobile Computing,Advanced,Cloud Engineer,Cybersecurity
+Security,SQL,Java Programming,Intermediate,Data Analyst,Cybersecurity
+Java,React,Software Engineering,Advanced,Frontend Developer,Java Development
+UI Design,SQL,Cyber Security,Beginner,Cloud Engineer,Web Development
+Data Analysis,Docker,Software Engineering,Beginner,Data Analyst,Data Analytics
+Automation,HTML CSS JavaScript,Web Technology,Advanced,Android Developer,Machine Learning
+Web Apps,Kotlin,Cyber Security,Advanced,Security Analyst,Web Development
+Security,Python,Cloud Computing,Intermediate,Security Analyst,Cybersecurity
